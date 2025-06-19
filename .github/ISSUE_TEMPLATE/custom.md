@@ -1,11 +1,3 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
 <h1>Why You Might Need AOL Customer Service</h1>
 <p>AOL Mail offers many features, including a clean interface, integrated calendar, spam protection, and secure storage. However, even the best services can run into problems. Here are some common reasons users may need to reach out to AOL customer support:
 1.	Login Issues
